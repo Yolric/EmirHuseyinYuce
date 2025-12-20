@@ -69,9 +69,9 @@ Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişi
 ## 💬 Benimle Bağlantı Kurun
 Eğer projelerimi beğendiyseniz veya üzerinde konuşmak istediğiniz bir fikriniz varsa, bana ulaşmaktan çekinmeyin!
 
-* **📫 E-posta:** [E-posta Adresini Buraya Yaz]
-* **💬 Discord:** [Discord Kullanıcı Adını Buraya Yaz]
-* **🌐 Portfolyo:** [Eğer Varsa Web Siteni Buraya Yaz]
+* **📫 E-posta:** emirhuseyinyuce@gmail.com 
+* **💬 Discord:** Nick:emirhuseyin
+* **🌐 Medya:** İnstagram:https://www.instagram.com/yolric.css_bittimi?igsh=cG83MnN4anZmZWds
 
 ---
 
