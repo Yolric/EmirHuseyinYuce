@@ -6,6 +6,13 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Emir%20Hüseyin%20Yüce&fontSize=70&animation=fadeIn" />
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=EMİR%20HÜSEYİN%20YÜCE&fontSize=80&animation=fadeIn&fontAlignY=40" alt="Emir Hüseyin Yüce" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00b4d8&center=true&width=450&lines=Yazılım+Geliştiricisi;Problem+Çözücü;Dijital+Mimar;Geleceği+Kodlayan;Web+Teknolojileri+Uzmanı;Oyun+Geliştiricisi" alt="Dinamik Unvanlar" />
+
 </p>
 
 
