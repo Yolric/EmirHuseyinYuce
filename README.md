@@ -69,6 +69,11 @@ Yazılım benim için sadece bir iş veya hobi değil, bir **problem çözme san
 
 
 ### 🌐 Web Geliştirme (Frontend & Backend)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Modern ve estetik web arayüzleri tasarlarken performansı ve kullanıcı deneyimini (UX) ön planda tutuyorum.
 
@@ -81,6 +86,10 @@ Modern ve estetik web arayüzleri tasarlarken performansı ve kullanıcı deneyi
 
 
 ### 💻 Yazılım & Sistem
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 * **Geliştirme:** Algoritma tasarımı ve problem çözme odaklı yazılım süreçleri.
 
@@ -136,25 +145,22 @@ Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişi
 
 
 
-## 🏆Başarılarım
-
-* Kodland Python level 1  1. lik sertifikası.
-
-* Kodland Python Pro level 2  1. lik sertifikası.
-
-* Siber güvenlik Uzmanlık sertifikası BMD.
-
-* Açık Kaynak Kodları Aktif Paylaşımlar.
-
-* Aktif Olarak Unity Unreal Engine Oyun Geliştirme Çalışmaları
-
+## 🏆 Başarılarım & Sertifikalar
+* 🥇 **Kodland Python Level 1** - Birincilik Sertifikası
+* 🥇 **Kodland Python Pro Level 2** - Birincilik Sertifikası
+* 🛡️ **Siber Güvenlik Uzmanlık Sertifikası** (BMD)
+* 🎮 **Oyun Geliştirme:** Unity ve Unreal Engine üzerinde aktif projeler.
 
 
 ## 💬 Benimle Bağlantı Kurun
 
 Eğer projelerimi beğendiyseniz veya üzerinde konuşmak istediğiniz bir fikriniz varsa, bana ulaşmaktan çekinmeyin!
 
-
+<p align="left">
+<a href="mailto:emirhuseyinyuce@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/yolric.css_bittimi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=emirhuseyin" />
+</p>
 
 * **📫 E-posta:** emirhuseyinyuce@gmail.com 
 
