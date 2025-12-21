@@ -29,10 +29,11 @@
 4.  [🌐 Web Geliştirme (Frontend & Backend)](#-web-geliştirme-frontend--backend)
 5.  [💻 Yazılım & Sistem](#-yazılım--sistem)
 6.  [📈 Yazılım Yolculuğum ve İstatistikler](#-yazılım-yolculuğum-ve-istatistikler)
-7.  [🏆Başarılarım](#-Başarılarım)
-8.  [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
-9.  [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
-10.  [⚡ Eğlenceli Gerçekler (Fun Facts)](#-eğlenceli-gerçekler)
+7.  [📊 GitHub Analitiği](#-github-analitiği)
+9.  [🤝 İş Birliği ve İletişim](#-iş-birliği-ve-iletişim)
+10. [🏆Başarılarım](#-başarılarım--sertifikalar)
+11. [💬 Benimle Bağlantı Kurun](#-benimle-bağlantı-kurun)
+12. [⚡ Eğlenceli Gerçekler (Fun Facts)](#-eğlenceli-gerçekler)
 
 
 
