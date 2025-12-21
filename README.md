@@ -165,10 +165,10 @@ Benimle her türlü proje, iş birliği veya sadece teknik sohbet için iletişi
 
 
 * **İş Birliği:** Yeni ve yenilikçi projelerde yer almaya her zaman açığım.
-* 
+
 
 * **Teknik Destek:** Web tasarımı veya yazılım süreçlerinde takıldığınız noktalarda yardımcı olabilirim.
-* 
+
 
 * **Donanım:** Donanım seçimleri ve optimizasyon konularında fikir alışverişi yapabiliriz.
 
