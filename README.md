@@ -7,10 +7,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Emir%20Hüseyin%20Yüce&fontSize=70&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00b4d8&center=true&width=450&lines=Yazılım+Geliştiricisi;Problem+Çözücü;Dijital+Mimar;Geleceği+Kodlayan;Web+Teknolojileri+Uzmanı;Oyun+Geliştiricisi" alt="Dinamik Unvanlar" />
-
+  <table align="center">
+    <tr>
+      <td align="center" style="border: 2px solid #00b4d8; border-radius: 10px; background-color: #0d1117; padding: 10px;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00b4d8&center=true&width=450&lines=Yazılım+Geliştiricisi;Problem+Çözücü;Dijital+Mimar;Geleceği+Kodlayan;Web+Teknolojileri+Uzmanı;Oyun+Geliştiricisi" alt="Dinamik Unvanlar" />
+      </td>
+    </tr>
+  </table>
 </p>
-
 
 
 ## 📑 İçindekiler
