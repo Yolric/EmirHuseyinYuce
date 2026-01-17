@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Emir%20Hüseyin%20Yüce&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Emir%20Hüseyin%20&fontSize=70&animation=fadeIn" />
 
 <p align="center">
   <table align="center">
