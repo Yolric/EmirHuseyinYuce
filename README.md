@@ -58,7 +58,6 @@
 
 Yazılım benim için sadece bir iş veya hobi değil, bir **problem çözme sanatı**. Her satır kodda daha verimli, daha hızlı ve daha kullanıcı dostu çözümler üretmeyi hedefliyorum. Genç yaşımda başladığım bu serüvende, disiplinli çalışmayı ve sürekli öğrenmeyi hayatımın merkezine koydum.
 
-* **Yaş:**(2010 Doğumlu)
 * **Odak Noktam:** Modern Web Teknolojileri ve Sistem Mimarileri.
 * **Vizyonum:** Açık kaynak dünyasına değer katan, global ölçekte projeler geliştirmek.
 * **Felsefem:** *"Karmaşıklığı basitliğe dönüştürmek en büyük yetenektir."*
